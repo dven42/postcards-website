@@ -1,0 +1,40 @@
+---
+title: "Divya Venkatesh"
+image: "mugshot.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/divya-venkatesh-317bb819"
+  - label: Twitter
+    url: "https://twitter.com/delfinut"
+  - label: GitHub
+    url: "https://github.com/dven42"
+  - label: Email
+    url: "mailto:divya.venkatesh42@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Will update this section soon
+
+## Education
+
+**University of Cambridge** | Department of Pathology | Queens' College | Cambridge, UK
+
+Ph.D. in Parasitology | October 2011 - April 2016
+
+
+**Newcastle University** | Newcastle upon Tyne, UK
+
+MRes in Medical and Molecular Biosciences | September 2007 - August 2008
+
+## Experience
+
+**Royal Veterinary College** | Department of Pathobiology and Population Sciences 
+
+Postdoc | October 2018 - July 2020
+
+**University of Cambridge** | Department of Zoology 
+
+Postdoc | October 2016 - September 2018
