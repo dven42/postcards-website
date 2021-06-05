@@ -18,7 +18,7 @@ output:
 
 I am a biologist with an interest in infectious diseases from evolutionary and immunological perspectives. 
 
-In my postdoc, I focussed on the evolution and transmission dynamics of influenza A viruses across species barriers in human, livestock and wild hosts. I collaborated with the CEIRS (Centers for excellence in influenza research and surveillance) network to asses pandemic risk from swine influenza A viruses. I worked with the UK government's APHA (Animal and plant health agency), for whom I investigated outbreaks of highly pathogenic avian influenza (HPAI) in poultry. I also led the analysis for the Avian Influenza Reports for the biannual WHO Vaccine Composition Meetings which inform vaccine development for potential zoonotic influenza outbreaks. 
+In my postdoc, I focussed on the evolution and transmission dynamics of influenza A viruses across species barriers in human, livestock and wild hosts. I collaborated with the CEIRS (Centers for excellence in influenza research and surveillance) network to asses pandemic risk from swine influenza A viruses. I worked with the UK government's APHA (Animal and plant health agency) to investigate outbreaks of highly pathogenic avian influenza (HPAI) in poultry. I also led the analysis for the Avian Influenza Reports for the biannual WHO Vaccine Composition Meetings which inform vaccine development for potential zoonotic influenza outbreaks. 
 
 Since July 2020 I have been on maternity leave and I am currently plotting my return to work...
 
