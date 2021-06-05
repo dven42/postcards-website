@@ -6,8 +6,8 @@ links:
     url: "www.linkedin.com/in/divya-venkatesh-317bb819"
   - label: Twitter
     url: "https://twitter.com/delfinut"
-  - label: GitHub
-    url: "https://github.com/dven42"
+  - label: Google Scholar
+    url: "https://scholar.google.co.uk/citations?user=J-j283EAAAAJ&hl=en"
   - label: Email
     url: "mailto:divya.venkatesh42@gmail.com"
 output:
@@ -16,25 +16,31 @@ output:
  
 ## Bio
 
-Will update this section soon
+I am a biologist with an interest in infectious diseases from evolutionary and immunological perspectives. 
+
+In my postdoc, I focussed on the evolution and transmission dynamics of influenza A viruses across species barriers in human, livestock and wild hosts. I collaborated with the CEIRS (Centers for excellence in influenza research and surveillance) network to asses pandemic risk from swine influenza A viruses. I worked with the UK government's APHA (Animal and plant health agency), for whom I investigated outbreaks of highly pathogenic avian influenza (HPAI) in poultry. I also led the analysis for the Avian Influenza Reports for the biannual WHO Vaccine Composition Meetings which inform vaccine development for potential zoonotic influenza outbreaks. 
+
+Since July 2020 I have been on maternity leave and I am currently plotting my return to work...
+
 
 ## Education
 
-**University of Cambridge** | Department of Pathology | Queens' College | Cambridge, UK
+**University of Cambridge, Queens' College** Department of Pathology | Cambridge, UK\
+Ph.D. in Parasitology (Gates Scholar) | October 2011 - April 2016
 
-Ph.D. in Parasitology | October 2011 - April 2016
-
-
-**Newcastle University** | Newcastle upon Tyne, UK
-
+**Newcastle University** | Newcastle upon Tyne, UK\
 MRes in Medical and Molecular Biosciences | September 2007 - August 2008
+
+**Bangalore University** | SBM Jain College, Bangalore, India\
+BSc Biotechnology | June 2004 - June 2007
+
 
 ## Experience
 
-**Royal Veterinary College** | Department of Pathobiology and Population Sciences 
+**The Royal Veterinary College** Department of Pathobiology and Population Sciences (2018-2020) & **University of Cambridge**, Department of Zoology (2016-2018)\
+Postdoctoral researcher | October 2016 - July 2020
 
-Postdoc | October 2018 - July 2020
+**Newcastle University** Institute of Genetic Medicine\
+Research Assistant | September 2008 - August 2011
 
-**University of Cambridge** | Department of Zoology 
 
-Postdoc | October 2016 - September 2018
